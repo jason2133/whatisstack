@@ -14,7 +14,7 @@
 - 한 쪽으로만 들어가기 때문에 처음 들어간 것은 밑에 깔려서 나중에 나올 수밖에 없다 (FILO 구조 – First In Last Out)
 - 반대로 (LIFO 구조 – Last In First Out) 마지막에 들어간 것은 첫 번째로 나오겠지.
 
-ex. 스택 그림
+ex. 스택 그림  
 | D |  
 | C |  
 | B |  
