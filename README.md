@@ -1,6 +1,4 @@
-# whatisstack
-
-# 스택이란 무엇인가
+# whatisstack - 스택이란 무엇인가
 
 ## 스택 Stack
 [영어사전] Stack : 쌓다, 쌓아올린 더미
